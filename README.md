@@ -1,0 +1,2 @@
+# ImageSliderPlayer
+ImageSliderPlayer for Android
